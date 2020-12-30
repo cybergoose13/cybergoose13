@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/cybergoose13/cybergoose13.svg)](http://hits.dwyl.com/cybergoose13/cybergoose13)
+
 ### I am CyberGoose 👋 ###
 
 <!--
