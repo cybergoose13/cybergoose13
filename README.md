@@ -1,3 +1,5 @@
+@import url('https://unpkg.com/primer/build/build.css');
+
 ### I am CyberGoose 👋
 
 <!--
