@@ -1,6 +1,9 @@
 [![HitCount](http://hits.dwyl.com/cybergoose13/cybergoose13.svg)](http://hits.dwyl.com/cybergoose13/cybergoose13)
 
-### I am CyberGoose 👋 ###
+### I am the CyberGoose 👋 ###
+* I'm currently working
+  - Learning C
+  - Improving Java, Python, and Javascript skills
 
 <!--
 **cybergoose13/cybergoose13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
