@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/cybergoose13/cybergoose13.svg)](http://hits.dwyl.com/cybergoose13/cybergoose13)
 
-### I am the CyberGoose! ###
+### I am the CyberGoose! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ###
 
 * I'm currently working
   - Learning C
