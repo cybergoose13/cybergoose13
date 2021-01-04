@@ -1,14 +1,18 @@
 [![HitCount](http://hits.dwyl.com/cybergoose13/cybergoose13.svg)](http://hits.dwyl.com/cybergoose13/cybergoose13)
 
 # Welcome to my hub of git <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
-### I am the Cybergoose <img src="https://media.giphy.com/media/lQRwl2XKnHJWE/source.gif" width="75px">
+### I am the Cybergoose <img src="https://media.giphy.com/media/lQRwl2XKnHJWE/source.gif" width="75px"> 
+<!-- ==Resources== -->
+<!-- https://gist.github.com/rxaviers/7360908 -->
+<!-- https://www.flaticon.com -->
+## <a href="https://www.instagram.com/cyber_goose"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" width="50px"></a> <a href="https://www.facebook.com/number568290/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" width="50px"></a> <a href="https://www.twitter.com/cybergoose13"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="60px"></a> <a href="https://open.spotify.com/user/joshuajcornell?si=zr-HFwSyRy2i45klcGTy1A"><img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504940.svg" width="50px"> <a href=""><img src="https://www.flaticon.com/premium-icon/icons/svg/3670/3670157.svg" width="50px"></a>
+
 >Currently Working on. . .
 >* Learning C
 >* Improving Java
 >* Improving Python
 >* Improving C#
 >* Improving Javascript
-
 <!--
 **cybergoose13/cybergoose13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
