@@ -1,10 +1,13 @@
 [![HitCount](http://hits.dwyl.com/cybergoose13/cybergoose13.svg)](http://hits.dwyl.com/cybergoose13/cybergoose13)
 
-### I am the CyberGoose! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ###
-
-* I'm currently working
-  - Learning C
-  - Improving Java, Python, and Javascript skills
+# Welcome to my hub of git <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
+### I am the Cybergoose <img src="https://media.giphy.com/media/lQRwl2XKnHJWE/source.gif" width="75px">
+>Currently Working on. . .
+>* Learning C
+>* Improving Java
+>* Improving Python
+>* Improving C#
+>* Improving Javascript
 
 <!--
 **cybergoose13/cybergoose13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
