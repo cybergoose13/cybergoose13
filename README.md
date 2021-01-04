@@ -12,6 +12,17 @@
 <!--
 **cybergoose13/cybergoose13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+contents example:
+## Table of contents
+* [General](#general)
+* [Setup](#setup)
+
+## General
+words here
+
+## Setup
+words here
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
