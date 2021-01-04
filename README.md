@@ -13,6 +13,7 @@
 >* Improving Python
 >* Improving C#
 >* Improving Javascript
+![Discord](https://img.shields.io/discord/618881743880978491?color=red&label=CyberGaggle&logo=discord&logoColor=green&style=plastic)
 <!--
 **cybergoose13/cybergoose13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
