@@ -5,7 +5,7 @@
 <!-- ==Resources== -->
 <!-- https://gist.github.com/rxaviers/7360908 -->
 <!-- https://www.flaticon.com -->
-## <a href="https://www.instagram.com/cyber_goose"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" width="50px"></a> <a href="https://www.facebook.com/number568290/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" width="50px"></a> <a href="https://www.twitter.com/cybergoose13"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="60px"></a> <a href="https://open.spotify.com/user/joshuajcornell?si=zr-HFwSyRy2i45klcGTy1A"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" width="50px"></a> <a href=""><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="50px"></a>
+## <a href="https://www.instagram.com/cyber_goose"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" width="50px"></a> <a href="https://www.facebook.com/number568290/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" width="50px"></a> <a href="https://www.twitter.com/cybergoose13"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="60px"></a> <a href="https://open.spotify.com/user/joshuajcornell?si=zr-HFwSyRy2i45klcGTy1A"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" width="50px"></a> <a href="https://discord.com/channels/@me/789657408413630464"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="50px"></a>
 
 >Currently Working on. . .
 >* Learning C
