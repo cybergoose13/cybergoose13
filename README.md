@@ -9,7 +9,7 @@
 
 ## Current Projects
 ## Technologies
->Exercising my brain with. . .
+## Learning
 >* Learning C
 >* Improving Java
 >* Improving Python
