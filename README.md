@@ -1,7 +1,6 @@
-[![HitCount](http://hits.dwyl.com/cybergoose13/cybergoose13.svg)](http://hits.dwyl.com/cybergoose13/cybergoose13)
+[![HitCount](http://hits.dwyl.com/cybergoose13/cybergoose13.svg)](http://hits.dwyl.com/cybergoose13/cybergoose13) ![Discord](https://img.shields.io/discord/618881743880978491?color=red&label=CyberGaggle&logo=discord&logoColor=green&style=plastic)
 
-# Welcome to my hub of git <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
-### I am the Cybergoose <img src="https://media.giphy.com/media/lQRwl2XKnHJWE/source.gif" width="75px"> 
+# Welcome to CyberGoose's GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
 <!-- ==Resources== -->
 <!-- https://gist.github.com/rxaviers/7360908 -->
 <!-- https://www.flaticon.com -->
@@ -14,7 +13,7 @@
 >* Improving C#
 >* Improving Javascript
 
-![Discord](https://img.shields.io/discord/618881743880978491?color=red&label=CyberGaggle&logo=discord&logoColor=green&style=plastic)
+
 <!--
 **cybergoose13/cybergoose13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
