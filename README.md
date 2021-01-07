@@ -9,7 +9,7 @@
 
 ## Current Projects
 ## Technologies
-> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" width="40px">
+> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg" width="40px">
 ## Learning
 >* Learning C
 >* Improving Java
