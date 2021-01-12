@@ -10,9 +10,9 @@
 
 ## Current Projects
 ### Started
->* Flash Card Web App
->* Dead Man Switch
->* Portfolio
+>* [Flash Cards](https://github.com/cybergoose13/flashcards)
+>* [Dead Man Switch](https://github.com/cybergoose13/DedManSwitch)
+>* [Portfolio](cybergoose13.github.io)
 ### Future Projects
 |Web                 |GUI       |Console             |Security  |
 |--------------------|----------|--------------------|----------|
