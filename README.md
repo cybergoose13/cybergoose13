@@ -9,14 +9,24 @@
 > ### <a href="https://www.instagram.com/cyber_goose"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" width="50px"></a> <a href="https://www.facebook.com/number568290/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" width="50px"></a> <a href="https://www.twitter.com/cybergoose13"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="60px"></a> <a href="https://open.spotify.com/user/joshuajcornell?si=zr-HFwSyRy2i45klcGTy1A"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" width="50px"></a> <a href="https://discord.com/channels/@me/789657408413630464"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="50px"></a> <a href="https://www.hackerrank.com/cybergoose"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png" width="50px"></a> <a href="https://www.linkedin.com/in/josh-cornell-106baa1b9/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="50px"></a>
 
 ## Current Projects
+### Started
+>* Flash Card Web App
+>* Dead Man Switch
+>* Portfolio
+### Future Projects
+|Web                 |GUI       |Console             |Security  |
+|--------------------|----------|--------------------|----------|
+|Encryption Info Page|FTP Server|Web Scrapper        |Key Logger|
+|Math Game           |Screenshot|Time-Base Encryption|Logic Bomb|
+
 ## Technologies
-> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919837.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" width="40px">
+> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" alt="C#" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" alt="Python" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg" alt="Linux" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" alt="C" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg" alt="Android" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" alt="HTML5" width="40px">
+<img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="CSS" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919837.svg" alt="Bash" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" alt="Javascript" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="Sass" width="40px">
 ## Learning
 >* Learning C
->* Improving Java
->* Improving Python
->* Improving C#
->* Improving Javascript
+>* Learning Cisco
+>* Learning MySQL
+>* Learning Always
 
 
 <!--
