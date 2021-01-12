@@ -13,6 +13,7 @@
 >* [Flash Cards](https://github.com/cybergoose13/flashcards)
 >* [Dead Man Switch](https://github.com/cybergoose13/DedManSwitch)
 >* [Portfolio](https://cybergoose13.github.io/)
+>* [Auto Elytra](https://github.com/cybergoose13/AutoElytra)
 ### Future Projects
 |Web                 |GUI          |Console             |Security  |
 |--------------------|-------------|--------------------|----------|
