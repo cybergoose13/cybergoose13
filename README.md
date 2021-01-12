@@ -12,13 +12,13 @@
 ### Started
 >* [Flash Cards](https://github.com/cybergoose13/flashcards)
 >* [Dead Man Switch](https://github.com/cybergoose13/DedManSwitch)
->* [Portfolio](cybergoose13.github.io)
+>* [Portfolio](https://cybergoose13.github.io/)
 ### Future Projects
-|Web                 |GUI       |Console             |Security  |
-|--------------------|----------|--------------------|----------|
-|Encryption Info Page|FTP Server|Web Scrapper        |Key Logger|
-|Math Game           |Screenshot|Time-Base Encryption|Logic Bomb|
-
+|Web                 |GUI          |Console             |Security  |
+|--------------------|-------------|--------------------|----------|
+|Encryption Info Page|FTP Server   |Web Scrapper        |Key Logger|
+|Math Game           |Screenshot   |Time-Base Encryption|Logic Bomb|
+|IT/Cyber Info Page  |Scattergories|Proxy Server        |Worm      |
 ## Technologies
 > <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" alt="C#" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" alt="Python" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg" alt="Linux" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" alt="C" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg" alt="Android" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" alt="HTML5" width="40px">
 <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="CSS" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919837.svg" alt="Bash" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" alt="Javascript" width="40px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="Sass" width="40px">
