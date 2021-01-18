@@ -14,11 +14,11 @@
 >* [Dead Man Switch](https://github.com/cybergoose13/DedManSwitch)
 >* [Portfolio](https://cybergoose13.github.io/)
 >* [Auto Elytra](https://github.com/cybergoose13/AutoElytra)
-> 
+>* [Web Scrapper](https://github.com/cybergoose13/web_scrapper)
 ### Future Projects
 |Web                 |GUI          |Console             |Security  |
 |--------------------|-------------------|--------------------|----------|
-|Encryption Info Page|FTP Server         |Web Scrapper        |Key Logger|
+|Encryption Info Page|FTP Server         |~~Web Scrapper~~    |Key Logger|
 |Math Game           |Screenshot         |Time-Base Encryption|Logic Bomb|
 |IT/Cyber Info Page  |Scattergories Clone|Proxy Server        |Worm      |
 |Bug Tracker         |                   |WordSearch Generator|FileSpider|
