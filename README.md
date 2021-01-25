@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/618881743880978491?color=red&label=CyberGaggle&logo=discord&logoColor=green&style=plastic) ![Relative date](https://img.shields.io/date/0?color=green&style=flat-square)
+![Discord](https://img.shields.io/discord/618881743880978491?color=red&label=CyberGaggle&logo=discord&logoColor=green&style=plastic) ![Relative date](https://img.shields.io/date/:timestamp?color=green&style=flat-square)
 
 # Welcome to CyberGoose's GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergoose13&layout=compact&theme=dark)
